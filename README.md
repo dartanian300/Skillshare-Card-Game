@@ -1,0 +1,1 @@
+Use 'Live Server' plugin in VS Code to run this project. Phaser will not run correctly without a local server.
